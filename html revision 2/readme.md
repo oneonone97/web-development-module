@@ -1,1 +1,3 @@
 ## Web Development HTML5 Revision
+
+In this module I learnt about Semantic HTML such as `<nav>`. Get to know about why and when to use `<div>` `<span>`. You can't use everywhere `<div>` in your HTML code and for `<span>` we use it for creating different meaning of it.You can't  I wrote some HTML code on some famous cards such as Hashnode, Tweet & Instagram Post. I get to know how we postion the HTML code, break HTML code in section, container and how we can group the parts. In Hashnode blog card I get to know how we can group the _username, date & time_ in one column section. The content and image are divided into two containers (left and right) same as for _Like,Share and Save_. Similar for Instagram and Twitter Tweet.
